@@ -20,7 +20,11 @@ This project is a full-stack web application based on my web development proposa
 
 ## Development Roadmap
 
+- [ ] Project Proposal
+- [ ] Front-end (Angular)
+- [ ] Back-end (Express.js and Node.js)
 - [ ] ...
+- [ ] Database (MongoDB)
 - [ ] ...
 - [ ] ...
 
