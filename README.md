@@ -35,3 +35,4 @@ This project is a full-stack web application based on my web development proposa
 
 initial design of the website
 ![initial design](./img/initial-design.png)
+![initial builder](./img/initial-builder.png)
