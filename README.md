@@ -1,15 +1,16 @@
 # INF656-Final-Project - MEAN Stack Project
 
-This project is a full-stack web application based on my web development proposal, using MongoDB, Express.js, Anguluar, and Node.js. (About and overview of project)
+This project is a full-stack web application based on my web development proposal, using MongoDB, Express.js, Anguluar, and Node.js. (About and overview of project)...
 
 ## Features
 
 - ...
 - ...
+- ...
 
 ## Built With
 
-- Front-end: Angular framework (using HTML, CSS, and JavaScript, and typescript)
+- Front-end: Angular framework (using HTML, CSS, and JavaScript, and typescript)...
 - Back-end: Express.js framework and Node.js server-side...
 - Database: MongoDB a NoSQL...
 
@@ -31,3 +32,6 @@ This project is a full-stack web application based on my web development proposa
 ## Gallery
 
 (inserting screenshots)
+
+initial design of the website
+![initial design](./img/initial-design.png)
